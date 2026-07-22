@@ -64,6 +64,8 @@ my-first-game/
 │
 ├── images/
 │   └── table.png
+|   └── game-preview1.png
+|   └── game-preview2.png
 │
 ├── index.html          # Game interface
 ├── index.css           # Styling and layout
