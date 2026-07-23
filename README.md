@@ -42,10 +42,10 @@ This project focuses on JavaScript fundamentals including game logic, state mana
 ## Preview
 
 <p align="center">
-  <img src="./images/game-preview2.png" width="700" alt="Blackjack Game Preview">
+  <img src="./images/game-preview2.png" width="700" alt="Blackjack Game Preview"> <br>
+  You can try this: https://loquacious-tanuki-5033f9.netlify.app/
 </p>
 
-You can try this: https://loquacious-tanuki-5033f9.netlify.app/
 ---
 
 ## Tech Stack
